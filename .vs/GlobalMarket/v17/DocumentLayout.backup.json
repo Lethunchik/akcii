@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\letia\\Desktop\\GlobalMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarket\\projects\\trading\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|solutionrelative:globalmarket\\projects\\trading\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarketapi\\services\\ifinanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|solutionrelative:globalmarketapi\\services\\ifinanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|solutionrelative:globalmarketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarketapi\\services\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|solutionrelative:globalmarketapi\\services\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarketapi\\controllers\\financecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|solutionrelative:globalmarketapi\\controllers\\financecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarketapi\\settings\\yahoofinancesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|solutionrelative:globalmarketapi\\settings\\yahoofinancesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarket\\projects\\trading\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|solutionrelative:globalmarket\\projects\\trading\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarket\\projects\\trading\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|solutionrelative:globalmarket\\projects\\trading\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarket\\projects\\trading\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|solutionrelative:globalmarket\\projects\\trading\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|solutionrelative:globalmarketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarket\\projects\\trading\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|solutionrelative:globalmarket\\projects\\trading\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarket\\projects\\trading\\src\\app\\app.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|solutionrelative:globalmarket\\projects\\trading\\src\\app\\app.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarket\\projects\\trading\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|solutionrelative:globalmarket\\projects\\trading\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarketapi\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|solutionrelative:globalmarketapi\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarketapi\\models\\yahooquoteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|solutionrelative:globalmarketapi\\models\\yahooquoteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarketapi\\models\\quoteresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91584F4D-9140-47E9-8E75-0E01FD50372E}|GlobalMarketAPI\\GlobalMarketAPI.csproj|solutionrelative:globalmarketapi\\models\\quoteresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarket\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|solutionrelative:globalmarket\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|c:\\users\\letia\\desktop\\globalmarket\\globalmarket\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD53B8D8-6303-42AA-9FF4-B7D2DC377A6F}|GlobalMarket\\GlobalMarket.esproj|solutionrelative:globalmarket\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "GlobalMarket\\projects\\trading\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\app\\app.component.ts",
+              "RelativeToolTip": "GlobalMarket\\projects\\trading\\src\\app\\app.component.ts",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-20T01:51:59.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "GlobalMarket\\projects\\trading\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\app\\app.component.html",
+              "RelativeToolTip": "GlobalMarket\\projects\\trading\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-20T01:51:59.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFinanceService.cs",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Services\\IFinanceService.cs",
+              "RelativeDocumentMoniker": "GlobalMarketAPI\\Services\\IFinanceService.cs",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Services\\IFinanceService.cs",
+              "RelativeToolTip": "GlobalMarketAPI\\Services\\IFinanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:51:59.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinanceService.cs",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Services\\FinanceService.cs",
+              "RelativeDocumentMoniker": "GlobalMarketAPI\\Services\\FinanceService.cs",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Services\\FinanceService.cs",
+              "RelativeToolTip": "GlobalMarketAPI\\Services\\FinanceService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:51:59.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YahooFinanceSettings.cs",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Settings\\YahooFinanceSettings.cs",
+              "RelativeDocumentMoniker": "GlobalMarketAPI\\Settings\\YahooFinanceSettings.cs",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Settings\\YahooFinanceSettings.cs",
+              "RelativeToolTip": "GlobalMarketAPI\\Settings\\YahooFinanceSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:51:59.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinanceController.cs",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Controllers\\FinanceController.cs",
+              "RelativeDocumentMoniker": "GlobalMarketAPI\\Controllers\\FinanceController.cs",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Controllers\\FinanceController.cs",
+              "RelativeToolTip": "GlobalMarketAPI\\Controllers\\FinanceController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:51:59.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GlobalMarketAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Program.cs",
+              "RelativeToolTip": "GlobalMarketAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:51:59.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GlobalMarketAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\appsettings.json",
+              "RelativeToolTip": "GlobalMarketAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T01:52:00.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "GlobalMarket\\projects\\trading\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\app\\app.component.css",
+              "RelativeToolTip": "GlobalMarket\\projects\\trading\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-20T01:52:00.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\styles.css",
+              "RelativeDocumentMoniker": "GlobalMarket\\projects\\trading\\src\\styles.css",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\styles.css",
+              "RelativeToolTip": "GlobalMarket\\projects\\trading\\src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-20T01:52:00.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "GlobalMarket\\projects\\trading\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\proxy.conf.js",
+              "RelativeToolTip": "GlobalMarket\\projects\\trading\\src\\proxy.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-20T01:52:00.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "GlobalMarket\\projects\\trading\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\app\\app.module.ts",
+              "RelativeToolTip": "GlobalMarket\\projects\\trading\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-20T01:52:00.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.model.ts",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\app\\app.model.ts",
+              "RelativeDocumentMoniker": "GlobalMarket\\projects\\trading\\src\\app\\app.model.ts",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\projects\\trading\\src\\app\\app.model.ts",
+              "RelativeToolTip": "GlobalMarket\\projects\\trading\\src\\app\\app.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-20T01:52:00.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "YahooQuoteResponse.cs",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Models\\YahooQuoteResponse.cs",
+              "RelativeDocumentMoniker": "GlobalMarketAPI\\Models\\YahooQuoteResponse.cs",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Models\\YahooQuoteResponse.cs",
+              "RelativeToolTip": "GlobalMarketAPI\\Models\\YahooQuoteResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:52:00.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "GlobalMarketAPI\\Models\\Quote.cs",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Models\\Quote.cs",
+              "RelativeToolTip": "GlobalMarketAPI\\Models\\Quote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:52:00.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuoteResult.cs",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Models\\QuoteResult.cs",
+              "RelativeDocumentMoniker": "GlobalMarketAPI\\Models\\QuoteResult.cs",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarketAPI\\Models\\QuoteResult.cs",
+              "RelativeToolTip": "GlobalMarketAPI\\Models\\QuoteResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:52:00.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "GlobalMarket\\aspnetcore-https.js",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\aspnetcore-https.js",
+              "RelativeToolTip": "GlobalMarket\\aspnetcore-https.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-20T01:52:00.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\angular.json",
+              "RelativeDocumentMoniker": "GlobalMarket\\angular.json",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\GlobalMarket\\GlobalMarket\\angular.json",
+              "RelativeToolTip": "GlobalMarket\\angular.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T01:52:00.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
